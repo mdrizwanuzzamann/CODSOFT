@@ -10,9 +10,11 @@ body {
 }
 
 .name {
+    font-size: 25px;
     position: absolute;
     left: 100px;
     cursor: pointer;
+    font-weight: bold;
 }
 
 nav {
@@ -89,6 +91,7 @@ nav ul li a:hover {
     border: none ;
     padding: 10px 10px ;
     cursor : pointer; 
+    border-radius: 5px ;
 }
 
 .data-container button:hover{
